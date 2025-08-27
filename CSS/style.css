@@ -1,0 +1,22 @@
+/* body{
+    background-color: blueviolet;
+} */
+
+p{
+    background-color: rgb(218, 107, 107);
+}
+h2{
+    color:rgb(198, 100, 248);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+#home{
+    background-color: rgb(230, 190, 255);
+   
+}
+.footer{
+    color:white;
+   background-color: black;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
